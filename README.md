@@ -205,7 +205,7 @@ Userscripts to add functionality to GitHub.
 [toc-gf]: https://greasyfork.org/en/scripts/18344-github-toc
 [tws-gf]: https://greasyfork.org/en/scripts/18433-github-toggle-wiki-sidebar
 [ufk-gf]: https://greasyfork.org/en/scripts/398272-github-update-fork
-[gpl-gf]: https://openuserjs.org/en/scripts/_github-pages-link
+[gpl-gf]: https://greasyfork.org/en/scripts/412857-github-pages-link
 
 [ccr-ou]: https://openuserjs.org/scripts/Mottie/GitHub_Code_Colors
 [ccs-ou]: https://openuserjs.org/scripts/Mottie/GitHub_Copy_Code_Snippet
